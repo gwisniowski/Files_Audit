@@ -1,3 +1,5 @@
 .venv/
 test_dir/
 test_dup/
+__pycache__
+raport.md
